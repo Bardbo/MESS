@@ -1,0 +1,4 @@
+stgcn+share 表示共享stgcn的参数并对spatial和dtw两个矩阵进行全连接融合
+
+stgcn+ 表示不共享stgcn的参数并对spatial和dtw两个矩阵进行全连接融合
+stgcn+mean 表示不共享stgcn的参数并对结果进行平均融合
